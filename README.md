@@ -1,0 +1,4 @@
+# SwipeDragRecyclerview
+Recycling has always been one of those good things for planet. But the developers took it seriously and brought recycling in the digital world. Yes, by recycling it is possible to build more flexible and efficient mobile apps. It allows developers to make user experience more interactional and intriguing.
+Thus, I finally decided to create a demo on it and written a tutorial on [How to Build More Flexible And Efficient Apps With Android RecyclerView Example](https://www.spaceotechnologies.com/build-flexible-efficient-app-android-recyclerview-example/).
+If you face any issue implementing it, you can contact me for help. Also, if you want to implement this feature in your Android app and looking to [hire Android app developer](http://www.spaceotechnologies.com/hire-android-developer/ ) to help you, then you can contact Space-O Technologies for the same.
